@@ -104,6 +104,10 @@ body {
   flex-basis: 50%;
 }
 
+.progress:hover {
+  cursor: pointer;
+}
+
 /* unholy css to style input type="range" */
 
 input[type=range] {
